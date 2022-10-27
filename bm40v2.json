@@ -4,7 +4,6 @@
   "version": 1,
   "keyboard": "kprepublic/bm40hsrgb",
   "keymap": "wolff_abnt2",
-  "layout": "LAYOUT_planck_mit",
   "layers": [
     [
       "KC_ESC",
