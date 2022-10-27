@@ -2,7 +2,8 @@
   "name": "bm40v2",
   "vendorProductId": 1263538497,
   "version": 1,
-  "keymap": "bm40v2",
+  "keyboard": "kprepublic/bm40hsrgb",
+  "keymap": "wolff_abnt2",
   "layout": "LAYOUT_planck_mit",
   "layers": [
     [
